@@ -1,2 +1,3 @@
 regioni:sicilia,puglia
 regioni:sicilia,puglia,roma
+regioni:sicilia,puglia,roma,sardegna
